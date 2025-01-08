@@ -1,8 +1,6 @@
 # FriendConnect
 ## UPDATE
 
-We are working on a rust port to solve the issues that have occurred, please be patient. Thank you
-
 <table>
 <tr>
 <td><img src="https://www.pngall.com/wp-content/uploads/8/Red-Warning-PNG-Free-Download.png" width="100"></td>
@@ -10,8 +8,9 @@ We are working on a rust port to solve the issues that have occurred, please be 
 
 # WARNING
 
-**For now, this software no longer works with the latest versions<br>
+**Right now, this software no longer works with the latest versions<br>
 of Minecraft Bedrock Edition.**
+**I am working on fixing this right now, I'll update this every time progress is made.**
 
 </td>
 <td><img src="https://www.pngall.com/wp-content/uploads/8/Red-Warning-PNG-Free-Download.png" width="100"></td>
